@@ -1,2 +1,3 @@
 .vs/
 *.html
+__pycache__/

@@ -61,7 +61,7 @@ teams_eng = { "Everton" : "everton", \
 "Arsenal" : "arsenal"}
 
 teams_ita = { "Juventus" : "juventus", \
-"Lazio": "şazio", \
+"Lazio": "lazio", \
 "Atalanta": "atalanta", \
 "Napoli": "napoli", \
 "HellasVerona": "hellas", \
