@@ -1,0 +1,11 @@
+Date 14.9.2019
+fiorentina juventus 0 0 0 0
+napoli sampdoria 1 0 2 0
+inter udinese 1 0 1 0
+genoa atalanta 0 0 1 2
+brescia bologna 3 1 3 4
+parma cagliari 0 2 1 3
+spal şazio 0 1 2 1
+roma sassuolo 4 0 4 2
+hellas milan 0 0 0 1
+torino lecce 0 1 1 2

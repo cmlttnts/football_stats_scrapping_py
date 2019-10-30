@@ -1,0 +1,10 @@
+Date 13.9.2019
+dusseldorf wolfsburg 1 1 1 1
+dortmund leverkusen 1 0 4 0
+mainz hberlin 1 0 2 1
+augsburg frankfurt 2 0 2 1
+koln mgladbach 0 1 0 1
+uberlin bremen 1 1 1 2
+leipzig bmunih 1 1 1 1
+hoffenheim freiburg 0 2 0 3
+padeborn schalke 1 1 1 5

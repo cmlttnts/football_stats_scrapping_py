@@ -1,0 +1,11 @@
+Date 4.10.2019
+betis eibaar 0 1 1 1
+leganes levante 0 1 1 2
+rmadrid granada 2 0 4 2
+valencia alaves 1 0 2 1
+osasuna villarreal 0 1 2 1
+mallorca espanyol 1 0 2 0
+celta bilbao 0 0 1 0
+valladolid atmadrid 0 0 0 0
+sociedad getafe 1 0 1 2
+barcelona sevilla 3 0 4 0

@@ -1,0 +1,10 @@
+Date 20.9.2019
+schalke mainz 1 0 2 1
+bmunih koln 1 0 4 0
+leverkusen uberlin 2 0 2 0
+hberlin padeborn 1 0 2 1
+freiburg augsburg 1 1 1 1
+bremen leipzig 0 2 0 3
+mgladbach dusseldorf 0 1 2 1
+frankfurt dortmund 1 1 2 2
+wolfsburg hoffenheim 1 1 1 1

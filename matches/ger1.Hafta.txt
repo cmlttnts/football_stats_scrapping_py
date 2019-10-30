@@ -1,0 +1,10 @@
+Date 16.8.2019
+bmunih hberlin 1 2 2 2
+dortmund augsburg 1 1 5 1
+leverkusen padeborn 2 2 3 2
+wolfsburg koln 1 0 2 1
+bremen dusseldorf 0 1 1 3
+freiburg mainz 0 0 3 0
+mgladbach schalke 0 0 0 0
+frankfurt hoffenheim 1 0 1 0
+uberlin leipzig 0 3 0 4

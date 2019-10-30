@@ -1,0 +1,11 @@
+Date 18.10.2019
+granada osasuna 1 0 1 0
+eibaar barcelona 0 1 0 3
+atmadrid valencia 1 0 1 1
+getafe leganes 0 0 2 0
+mallorca rmadrid 1 0 1 0
+alaves celta 0 0 2 0
+sociedad betis 2 1 3 1
+espanyol villarreal 0 1 0 1
+bilbao valladolid 1 0 1 1
+sevilla levante 0 0 1 0

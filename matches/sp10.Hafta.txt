@@ -1,0 +1,10 @@
+Date 25.10.2019
+villarreal alaves 1 0 4 1
+leganes mallorca 1 0 1 0
+valladolid eibaar 2 0 2 0
+atmadrid bilbao 1 0 2 0
+celta sociedad 0 0 0 1
+granada betis 0 0 1 0
+levante espanyol 0 1 0 1
+sevilla getafe 0 0 2 0
+osasuna valencia 1 1 3 1

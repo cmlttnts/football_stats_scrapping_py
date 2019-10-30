@@ -1,0 +1,11 @@
+Date 23.8.2019
+granada sevilla 0 0 0 1
+levante villarreal 0 1 2 1
+osasuna eibaar 0 0 0 0
+rmadrid valladolid 0 0 1 1
+getafe bilbao 1 1 1 1
+celta valencia 1 0 1 0
+mallorca sociedad 0 0 0 1
+alaves espanyol 0 0 0 0
+leganes atmadrid 0 0 0 1
+barcelona betis 1 1 5 2

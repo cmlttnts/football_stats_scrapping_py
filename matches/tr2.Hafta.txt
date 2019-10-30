@@ -1,0 +1,10 @@
+Date 23.8.2019
+besiktas goztepe 1 0 3 0
+ankaragucu kayseri 0 0 1 1
+alanya kasimpasa 1 1 4 1
+basaksehir fenerbahce 1 0 1 2
+rize sivas 0 0 2 1
+trabzon malatya 1 0 2 1
+galatasaray konya 0 0 1 1
+antalya denizli 0 1 0 2
+gaziantep genclerbirligi 2 0 4 1

@@ -1,0 +1,11 @@
+Date 19.10.2019
+everton westham 1 0 2 0
+bournemouth norwich 0 0 0 0
+aston brighton 1 1 2 1
+chelsea newcastle 0 0 1 0
+leicester burnley 1 1 2 1
+tottenham watford 0 1 1 1
+wolverhampton southampton 0 0 1 1
+palace mancity 0 2 0 2
+manutd liverpool 1 0 1 1
+sheffield arsenal 1 0 1 0

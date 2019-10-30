@@ -1,0 +1,11 @@
+Date 9.8.2019
+liverpool norwich 4 0 4 1
+westham mancity 0 1 0 5
+bournemouth sheffield 0 0 1 1
+burnley southampton 0 0 3 0
+palace everton 0 0 0 0
+watford brighton 0 1 0 3
+tottenham aston 0 1 3 1
+leicester wolverhampton 0 0 0 0
+newcastle arsenal 0 0 0 1
+manutd chelsea 1 0 4 0

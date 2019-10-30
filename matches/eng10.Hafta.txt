@@ -1,0 +1,11 @@
+Date 25.10.2019
+southampton leicester 0 5 0 9
+mancity aston 0 0 3 0
+brighton everton 1 1 3 2
+watford bournemouth 0 0 0 0
+westham sheffield 1 0 1 1
+burnley chelsea 0 2 2 4
+newcastle wolverhampton 1 0 1 1
+arsenal palace 2 1 2 2
+liverpool tottenham 0 1 2 1
+norwich manutd 0 2 1 3

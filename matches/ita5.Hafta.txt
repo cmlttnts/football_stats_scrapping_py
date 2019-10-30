@@ -1,0 +1,11 @@
+Date 24.9.2019
+hellas udinese 0 0 0 0
+brescia juventus 1 1 1 2
+roma atalanta 0 0 0 2
+fiorentina sampdoria 1 0 2 1
+genoa bologna 0 0 0 0
+inter şazio 1 0 1 0
+napoli cagliari 0 0 0 1
+parma sassuolo 0 0 1 0
+spal lecce 1 1 1 3
+torino milan 0 1 2 1

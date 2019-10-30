@@ -1,0 +1,11 @@
+Date 30.8.2019
+bologna spal 0 0 1 0
+milan brescia 1 0 1 0
+juventus napoli 2 0 4 3
+şazio roma 0 1 1 1
+atalanta torino 1 1 2 3
+cagliari inter 0 1 1 2
+genoa fiorentina 1 0 2 1
+lecce hellas 0 0 0 1
+sassuolo sampdoria 3 0 4 1
+udinese parma 1 1 1 3

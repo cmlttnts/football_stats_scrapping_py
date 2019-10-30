@@ -1,0 +1,11 @@
+Date 14.9.2019
+liverpool newcastle 2 1 3 1
+brighton burnley 0 0 1 1
+manutd leicester 1 0 1 0
+sheffield southampton 0 0 0 1
+tottenham palace 4 0 4 0
+wolverhampton chelsea 0 3 2 5
+norwich mancity 2 1 3 2
+bournemouth everton 1 1 3 1
+watford arsenal 0 2 2 2
+aston westham 0 0 0 0
