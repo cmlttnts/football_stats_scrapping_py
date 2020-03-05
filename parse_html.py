@@ -8,7 +8,7 @@ teams_tr = {"BTCTürkYeniMalatyaspor" : "malatya", \
 "Göztepe": "goztepe",\
 "İttifakHoldingKonyaspor": "konya",\
 "Kasımpaşa" : "kasimpasa",\
-"Gençlerbirliği" :"genclerbirligi",\
+"Gençlerbirliği" :"gencler",\
 "MKEAnkaragücü" : "ankaragucu",\
 "AytemizAlanyaspor": "alanya",\
 "DGSivasspor" :"sivas",\
@@ -37,7 +37,7 @@ teams_ger = { "HerthaBSCBerlin" : "hberlin", \
 "Augsburg": "augsburg", \
 "M'gladbach": "mgladbach", \
 "EintrachtFrankfurt": "frankfurt", \
-"Paderborn07": "padeborn"}
+"Paderborn07": "paderborn"}
 
 teams_eng = { "Everton" : "everton", \
 "WestHamUnited": "westham", \
@@ -51,7 +51,7 @@ teams_eng = { "Everton" : "everton", \
 "Burnley": "burnley", \
 "TottenhamHotspur": "tottenham", \
 "Watford": "watford", \
-"Wolverhampton": "wolverhampton", \
+"Wolverhampton": "wolves", \
 "Southampton": "southampton", \
 "CrystalPalace": "palace", \
 "ManchesterCity": "mancity", \
@@ -83,7 +83,7 @@ teams_ita = { "Juventus" : "juventus", \
 
 teams_sp = { "Granada" : "granada", \
 "Osasuna": "osasuna", \
-"Eibar": "eibaar", \
+"Eibar": "eibar", \
 "Barcelona": "barcelona", \
 "AtleticoMadrid": "atmadrid", \
 "Valencia": "valencia", \

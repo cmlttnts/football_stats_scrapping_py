@@ -26,11 +26,18 @@ eng_xpath4 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[7]'
 ita_xpath4 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[7]'
 sp_xpath4 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[7]'
 
-tr_xpaths = [tr_xpath4] #[tr_xpath1, tr_xpath2, tr_xpath3]
-ger_xpaths = [ger_xpath4]#[ger_xpath1, ger_xpath2, ger_xpath3]
-eng_xpaths = [eng_xpath4]#[eng_xpath1, eng_xpath2, eng_xpath3]
-ita_xpaths = [ita_xpath4]#[ita_xpath1, ita_xpath2, ita_xpath3]
-sp_xpaths = [sp_xpath4]#[sp_xpath1, sp_xpath2, sp_xpath3]
+#aralık
+tr_xpath5 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[9]'
+ger_xpath5 = '//*[@id="fixtureStageListViewDataContent"]/div/div[1]/div[9]'
+eng_xpath5 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[9]'
+ita_xpath5 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[9]'
+sp_xpath5 = '//*[@id="mainFixtureResultPage"]/div[2]/div[1]/div[1]/div[9]'
+
+tr_xpaths = [tr_xpath5] #[tr_xpath1, tr_xpath2, tr_xpath3]
+ger_xpaths = [ger_xpath5]#[ger_xpath1, ger_xpath2, ger_xpath3]
+eng_xpaths = [eng_xpath5]#[eng_xpath1, eng_xpath2, eng_xpath3]
+ita_xpaths = [ita_xpath5]#[ita_xpath1, ita_xpath2, ita_xpath3]
+sp_xpaths = [sp_xpath5]#[sp_xpath1, sp_xpath2, sp_xpath3]
 
 all_xpaths = [tr_xpaths, ger_xpaths, eng_xpaths, ita_xpaths, sp_xpaths]
 raw_htmls = []
